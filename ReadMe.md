@@ -18,4 +18,4 @@ Pull requests welcome! :v:
 
 ## License
 
-MIT © [GabLeRoux](https://gableroux.com/)
+MIT © [Gabriel Le Breton](https://gableroux.com/)
