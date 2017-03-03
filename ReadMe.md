@@ -10,6 +10,7 @@ I used [yeoman/generator-chrome-extension](https://github.com/yeoman/generator-c
 
 - [x] Button to hide columns
 - [ ] Have the hide button show again when we choose a diferent quick filter
+- [ ] :warning: Find a way to not mess the drag-n-drop system ;)
 - [ ] Toggle buttons instead (hide/show)
 - [ ] Persistent settings (remember hidden columns)
 - [ ] Publish extension
