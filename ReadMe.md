@@ -9,6 +9,13 @@ I used [yeoman/generator-chrome-extension](https://github.com/yeoman/generator-c
 ## Todo / nice to have
 
 - [x] Button to hide columns
+- [ ] Have the hide button show again when we choose a diferent quick filter
 - [ ] Toggle buttons instead (hide/show)
 - [ ] Persistent settings (remember hidden columns)
 - [ ] Publish extension
+
+Pull requests welcome! :v:
+
+## License
+
+MIT © [GabLeRoux](https://gableroux.com/)
