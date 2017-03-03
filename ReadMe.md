@@ -8,7 +8,7 @@ I used [yeoman/generator-chrome-extension](https://github.com/yeoman/generator-c
 
 ## Todo / nice to have
 
-[x] Button to hide columns
-[ ] Toggle buttons instead (hide/show)
-[ ] Persistent settings (remember hidden columns)
-[ ] Publish extension
+- [x] Button to hide columns
+- [ ] Toggle buttons instead (hide/show)
+- [ ] Persistent settings (remember hidden columns)
+- [ ] Publish extension
