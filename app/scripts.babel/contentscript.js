@@ -22,14 +22,14 @@ function myMain (evt) {
     function checkForDomReady () {
         var selector = jQuery('#ghx-column-headers > li.ghx-column');
         if (selector) {
-            selector
-                .append('<a href="#" class="column-header-hider">Hide</a>')
-                .click(function() {
-                    var col = jQuery(this).data('id');
-                    toggle_visibility('[data-id="'+col+'"]');
-                    toggle_visibility('[data-column-id="'+col+'"]');
+            selector.append(function() {
+                    return jQuery('<a href="#" class="column-header-hider"><i class="aui-icon aui-icon-small aui-iconfont-remove-label ghx-iconfont"></i></a>')
+                        .click(function() {
+                            var col = jQuery(this).parent().data('id');
+                            toggle_visibility('[data-id="'+col+'"]');
+                            toggle_visibility('[data-column-id="'+col+'"]');
+                        });
                 });
-
             clearInterval(jsInitChecktimer);
         }
     }
