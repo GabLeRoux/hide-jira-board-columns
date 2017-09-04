@@ -8,7 +8,7 @@ Simple chrome extension to hide some columns from your jira board.
 
 Until this is deployed to the Chrome web store, you can do this:
 
-1. Download latest zip file in [the releases tab](https://github.com/GabLeRoux/ansi-colors-chrome-extension/releases).
+1. Download latest zip file in [the releases tab](https://github.com/GabLeRoux/hide-jira-board-columns/releases).
 2. Unzip the the file
 3. Open [chrome://extensions](chrome://extensions)
 4. Drag n drop the folder of the plugin
