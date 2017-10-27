@@ -31,7 +31,7 @@ I used [yeoman/generator-chrome-extension](https://github.com/yeoman/generator-c
 
 ## Contributing
 
-* Pull requests are welcomed! Please contribute :rocket:
+* Pull requests are welcome! Please contribute :rocket:
 
 ## License
 
