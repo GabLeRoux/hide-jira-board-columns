@@ -32,5 +32,10 @@ function myMain (evt) {
                 });
             clearInterval(jsInitChecktimer);
         }
+
+        var somePadding = jQuery('.ghx-wrap-issue');
+        if(somePadding){
+            somePadding.css('padding-top','20px');
+        }
     }
 }
